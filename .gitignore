@@ -2,3 +2,5 @@
 angle.py
 index.py
 chromedriver
+utils.py
+__pycache__
